@@ -1,8 +1,8 @@
 <h2>:ghost: Hi there </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTstream&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TTstream&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTstream&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TTstream&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hy0433)](https://solved.ac/hy0433/)
 <!--
 **TTstream/TTstream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
